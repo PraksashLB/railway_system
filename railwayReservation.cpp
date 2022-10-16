@@ -111,6 +111,39 @@ class reser
 			cout<<"Passenger age:";
 			std::cin>>age[i];
 		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
 		cout<<"Enter the class f-first class s-second class:";
 		std::cin >> clas;
 		cout<<"Date of travel:";
@@ -135,7 +168,7 @@ class reser
 			cout<<"Passenger age: "<<age[i];
 		}
 
-        
+
 
 		cout<<"\nYour class: ";puts(clas);
 		cout<<"\nDate of reservation: "<<d<<"-"<<m<<"-"<<y;
